@@ -5,7 +5,7 @@
 1. Data Ingestion - information of datasource, and then we will update it in config.yaml
 2. Data Validation - check the schema 
 3. Data Transformation  - Feature engineering, data preprocessing ,
-4. Model Trainer
+4. Model Trainer-
 5. Model Evaluation
 
 ## Workflows
