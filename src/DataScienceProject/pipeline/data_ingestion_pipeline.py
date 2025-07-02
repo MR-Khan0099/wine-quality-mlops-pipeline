@@ -1,5 +1,4 @@
 from src.DataScienceProject.config.configuration import ConfigurationManager
-
 from src.DataScienceProject.components.data_ingestion import DataIngestion
 from src.DataScienceProject import logger
 

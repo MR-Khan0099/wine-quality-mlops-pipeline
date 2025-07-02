@@ -1,5 +1,4 @@
-# compare the schema 
-import os
+# compare the schema with the data and write the status to a file
 import pandas as pd
 from src.DataScienceProject import logger
 from src.DataScienceProject.entity.config_entity import (DataValidationConfig)
