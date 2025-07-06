@@ -14,9 +14,9 @@ from src.DataScienceProject.utils.common import save_json
 import mlflow.sklearn
 
 import os 
-# os.environ["MLFLOW_TRACKING_URI"] = "https://dagshub.com/MR-Khan0099/Data-Science-Project.mlflow"
+# os.environ["MLFLOW_TRACKING_URI"] = "---------"
 # os.environ["MLFLOW_TRACKING_USERNAME"] = "MR-Khan0099"
-# os.environ["MLFLOW_TRACKING_PASSWORD"] = "0178a4fbac2dd7881b940e3db90d6333039f5709"
+# os.environ["MLFLOW_TRACKING_PASSWORD"] = "------"
 
 
 class ModelEvaluation:
