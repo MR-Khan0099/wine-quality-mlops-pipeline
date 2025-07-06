@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Rizwan/Desktop/Courses/E3E%20DS%20Project/Data-Science-Project/mlruns/0/models/m-a917734ee66845da95a03eb6092a2f8e/artifacts
+creation_timestamp: 1751834875348
+experiment_id: '0'
+last_updated_timestamp: 1751834888752
+model_id: m-a917734ee66845da95a03eb6092a2f8e
+model_type: null
+name: model
+source_run_id: 284d38e6231b4242b8cd97c5bfc4c794
+status: 2
+status_message: null
